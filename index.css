@@ -1,0 +1,26 @@
+#meun{
+	margin-top:-2em;
+	height:5em;
+	margin-left:15em;
+	color: #FFF;	
+}
+#main{ margin-top:-1em;
+}
+#new{
+	margin-top:0em;
+	margin-left:10em;
+	font-size: 20px;
+	font-family: "微软雅黑";
+	color: #FFF;
+}
+#left{ margin-top:-3em;
+}
+#loop{
+	margin-top:10em;
+	margin-left: 13em;
+}
+body{background:#666;}
+#meun:link{text-decoration:none; color:#FFF;}
+#meun:active{text-decoration:none; color:#F00;}
+#meun:hove{text-decoration:none; color:#3F3;}
+#meun:visited{text-decoration:none; color:#FF0;}
